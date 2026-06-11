@@ -1,0 +1,16 @@
+{
+  "name": "Nitesh Kadve — Portfolio",
+  "short_name": "Nitesh Kadve",
+  "description": "Node.js Backend Developer focused on REST APIs, real-time systems, and IoT.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05070d",
+  "theme_color": "#05070d",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ]
+}

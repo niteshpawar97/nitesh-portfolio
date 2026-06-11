@@ -1,0 +1,13 @@
+# Dependencies
+/node_modules
+
+# Build output
+/dist
+
+# Logs & misc
+.DS_Store
+*.pem
+npm-debug.log*
+.env*
+.vercel
+*.tsbuildinfo
